@@ -243,9 +243,6 @@ body {
   z-index: 0;
   background: #ffffff center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .header {
@@ -256,9 +253,6 @@ body {
   z-index: 183;
   background: url(images/bg_10.png) no-repeat center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container {
@@ -292,8 +286,6 @@ a.logo img {
   top: 0;
   width: 183px;
   border: none;
-  -webkit-border-radius: 27.63px/25.5px;
-  -moz-border-radius: 27.63px/25.5px;
   border-radius: 27.63px/25.5px;
   background: rgba(127, 119, 112, 0.47);
   margin-left: -91.5px;
@@ -389,8 +381,6 @@ a.search img {
   padding: 0 31px;
   position: relative;
   width: 218px;
-  -webkit-border-radius: 20.43px/20.52px;
-  -moz-border-radius: 20.43px/20.52px;
   border-radius: 20.43px/20.52px;
   background: rgba(255, 255, 255, 0.9);
   color: #776c64;
@@ -542,8 +532,6 @@ a.search img {
   min-height: 75px;
   padding: 0 0 0 9px;
   width: 334px;
-  -webkit-border-radius: 37.5px;
-  -moz-border-radius: 37.5px;
   border-radius: 37.5px;
   background: #7f7770;
   font-size: 23.14815px;
@@ -618,8 +606,6 @@ a.search img {
   padding: 0 55px;
   position: relative;
   width: 334px;
-  -webkit-border-radius: 37.5px;
-  -moz-border-radius: 37.5px;
   border-radius: 37.5px;
   background: #e2a355;
   font-size: 29.16666px;
@@ -636,9 +622,6 @@ a.search img {
   z-index: 92;
   background: #deb37e center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container-4 {
@@ -679,8 +662,6 @@ a.search img {
   padding: 0 77px;
   position: relative;
   width: 334px;
-  -webkit-border-radius: 37.5px;
-  -moz-border-radius: 37.5px;
   border-radius: 37.5px;
   background: #e2a355;
   font-size: 23.14815px;
@@ -709,9 +690,6 @@ a.search img {
   z-index: 81;
   background: url(images/bg_6.png) no-repeat center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container-5 {
@@ -747,9 +725,6 @@ a.search img {
   z-index: 77;
   background: url(images/bg_5.png) no-repeat center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .l-constrained {
@@ -772,9 +747,6 @@ a.search img {
   width: 100%; /* 1440px / 1440px = 100% */
   z-index: 53;
   background: url(images/bg_4.png) no-repeat center bottom;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container-6 {
@@ -874,9 +846,6 @@ a.search img {
   z-index: 34;
   background: url(images/bg_3.png) no-repeat center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container-7 {
@@ -953,9 +922,6 @@ a.search img {
   z-index: 3;
   background: #7f7770 center 0;
   background-position: center top;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
 }
 .container-8 {
