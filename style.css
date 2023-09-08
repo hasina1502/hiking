@@ -747,7 +747,6 @@ a.search img {
   width: 100%; /* 1440px / 1440px = 100% */
   z-index: 53;
   background: url(images/bg_4.png) no-repeat center bottom;
-  background-size: cover;
 }
 .container-6 {
   margin: 0 auto;
